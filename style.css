@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #1e1e1e;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+.login-box {
+  background: #2c2c2c;
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input, button {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  background: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #45a049;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+.match {
+  background: #2c2c2c;
+  margin: 10px auto;
+  padding: 15px;
+  width: 400px;
+  border-radius: 6px;
+}
+
+select {
+  padding: 5px;
+  margin-top: 10px;
+}
